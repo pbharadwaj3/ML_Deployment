@@ -1,2 +1,2 @@
 # ML_Deployment
-End-yo-end project for ML Deployement
+End-to-end project for ML Deployement
